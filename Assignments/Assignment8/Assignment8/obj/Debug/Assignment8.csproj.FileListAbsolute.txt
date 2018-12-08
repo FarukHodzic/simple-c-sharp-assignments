@@ -1,0 +1,7 @@
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+C:\Users\Avdo\Desktop\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.pdb

@@ -1,0 +1,7 @@
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\obj\Debug\Assignments123.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\obj\Debug\Assignments123.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\bin\Debug\Assignments123.exe.config
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\bin\Debug\Assignments123.exe
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\bin\Debug\Assignments123.pdb
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\obj\Debug\Assignments123.exe
+C:\Users\Avdo\Desktop\Projects\Assignments123\Assignments123\obj\Debug\Assignments123.pdb

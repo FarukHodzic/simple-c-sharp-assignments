@@ -1,0 +1,7 @@
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\bin\Debug\Assignments456.exe.config
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\bin\Debug\Assignments456.exe
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\bin\Debug\Assignments456.pdb
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\obj\Debug\Assignments456.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\obj\Debug\Assignments456.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\obj\Debug\Assignments456.exe
+C:\Users\Avdo\Desktop\Projects\Assignments456\Assignments456\obj\Debug\Assignments456.pdb

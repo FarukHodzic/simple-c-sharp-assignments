@@ -1,0 +1,7 @@
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\bin\Debug\Assignment7.exe.config
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\bin\Debug\Assignment7.exe
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\bin\Debug\Assignment7.pdb
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\obj\Debug\Assignment7.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\obj\Debug\Assignment7.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\obj\Debug\Assignment7.exe
+C:\Users\Avdo\Desktop\CSharp\Assignment7\Assignment7\obj\Debug\Assignment7.pdb
