@@ -1,0 +1,14 @@
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.exe.config
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.exe
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.pdb
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.exe
+C:\Users\Avdo\Desktop\Projects\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.pdb
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.exe.config
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.exe
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\bin\Debug\DateTimeExercise.pdb
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.exe
+C:\Users\Avdo\Desktop\CSharp\Exercises\DateTimeExercise\DateTimeExercise\obj\Debug\DateTimeExercise.pdb

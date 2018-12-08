@@ -1,0 +1,7 @@
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\bin\Debug\CarsExercise.exe.config
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\bin\Debug\CarsExercise.exe
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\bin\Debug\CarsExercise.pdb
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\obj\Debug\CarsExercise.csprojAssemblyReference.cache
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\obj\Debug\CarsExercise.csproj.CoreCompileInputs.cache
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\obj\Debug\CarsExercise.exe
+C:\Users\Avdo\Desktop\Projects\CarsExercise\CarsExercise\obj\Debug\CarsExercise.pdb
